@@ -56,20 +56,20 @@ https://unicrio.org.br/img/2010/04/organograma.png
 
 |NOME|OBJETIVO|RESEARCH|
 |-|-|-|
-|Yale Climate Comm|Objetivo|Link|
+|Yale Climate Comm|Objetivo|https://climatecommunication.yale.edu/|
 |Natural Environment Research Council|Objetivo|https://nerc.ukri.org/|
 
 ## Movimentos Sociais
 
 |NOME|OBJETIVO|RESEARCH|
 |-|-|-|
-|We don't have time|Objetivo|Link|
+|We don't have time|Objetivo|https://www.wedonthavetime.org/about-us|
 |Riseup Movement|Objetivo|Link|
-|Climate Hero|Objetivo|Link|
+|Climate Hero|Objetivo|https://climatehero.me/|
 |Teach the Future|Objetivo|Link|
 |Global Shapers|Objetivo|https://www.globalshapers.org/impact|
 
 ## Empresas
 |NOME|RAMO|RESEARCH|
 |-|-|-|
-|Solar Power Europe|Energia Solar|Link|
+|Solar Power Europe|Energia Solar|https://www.solarpowereurope.org/|
