@@ -16,3 +16,11 @@
 |UNESCO|Organização das Nações Unidas para Educação, Ciência e Cultura|Link|
 |AEIA|Agência Internacional de Energia Atômica|Link|
 
+## Governo Brasileiro
+
+|AGÊNCIA|FUNÇÃO|RESEARCH|
+|-|-|-|
+|Cadastro Ambiental Rural (CAR)|Função|https://www.car.gov.br/#/|
+|Embrapa|Função|https://www.embrapa.br/car/sintese|
+|Módulo Fiscal (Embrapa)|Função|https://www.embrapa.br/codigo-florestal/area-de-reserva-legal-arl/modulo-fiscal|
+|INCRA|Função|https://www.gov.br/incra/pt-br|
