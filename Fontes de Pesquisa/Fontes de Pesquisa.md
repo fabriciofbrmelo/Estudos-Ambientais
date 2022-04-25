@@ -26,10 +26,11 @@
 |Módulo Fiscal (Embrapa)|Função|https://www.embrapa.br/codigo-florestal/area-de-reserva-legal-arl/modulo-fiscal|
 |INCRA|Função|https://www.gov.br/incra/pt-br|
 
-## ONGS e Institutos
+## ONGS, Institutos e Think Tanks
 
 |TIPO|NOME|RESEARCH|
 |-|-|-|
+|Internacional|World Economic Forum|https://www.weforum.org/|
 |Internacional|International Union for Conservation of Nature (IUCN)|https://www.iucn.org/about|
 |Internacional|Adelphi|link|
 |Internacional|Climate Pledge|Link|
@@ -53,6 +54,7 @@
 |NOME|OBJETIVO|RESEARCH|
 |-|-|-|
 |Yale Climate Comm|Objetivo|Link|
+|Natural Environment Research Council|Objetivo|https://nerc.ukri.org/|
 
 ## Movimentos Sociais
 
@@ -62,6 +64,7 @@
 |Riseup Movement|Objetivo|Link|
 |Climate Hero|Objetivo|Link|
 |Teach the Future|Objetivo|Link|
+|Global Shapers|Objetivo|https://www.globalshapers.org/impact|
 
 ## Empresas
 |NOME|RAMO|RESEARCH|
