@@ -4,18 +4,18 @@
 
 |SIGLA|ORGANIZAÇÃO INTERNACIONAL|RESEARCH|
 |-|-|-|
-|PNUMA|Programa das Nações Unidas para o Meio Ambiente|Link|
-|IPCC|Painel Intergovernamental para Mudanças Climáticas|Link|
-|UNFCCC|Convenção Quadro da ONU sobre Mudanças Climáticas|Link|
-|PNUD|Programa das Nações Unidas para o Desenvolvimento|Link|
-|WB|Banco Mundial|Link|
-|OMI|Organização Matítima Internacional|Link|
-|UNIDO|Organização das Nações Unidas para o Desenvolvimento Industrial|Link|
-|FAO|Organização das Nações Unidas para Agricultura e Alimentação|Link|
-|ONU-Habitat|Programa das Nações Unidas para Assentamentos Humanos|Link|
-|UNESCO|Organização das Nações Unidas para Educação, Ciência e Cultura|Link|
-|AEIA|Agência Internacional de Energia Atômica|Link|
-|EU|European Union Climate Action|Link|
+|PNUMA|Programa das Nações Unidas para o Meio Ambiente|https://www.unep.org/|
+|IPCC|Painel Intergovernamental para Mudanças Climáticas|https://www.ipcc.ch/|
+|UNFCCC|Convenção Quadro da ONU sobre Mudanças Climáticas|https://unfccc.int/|
+|PNUD|Programa das Nações Unidas para o Desenvolvimento|https://www.undp.org/|
+|WB|Banco Mundial|https://www.worldbank.org/en/home|
+|OMI|Organização Matítima Internacional|https://www.imo.org/|
+|UNIDO|Organização das Nações Unidas para o Desenvolvimento Industrial|https://www.unido.org/|
+|FAO|Organização das Nações Unidas para Agricultura e Alimentação|https://www.fao.org/brasil/pt/|
+|ONU-Habitat|Programa das Nações Unidas para Assentamentos Humanos|https://unhabitat.org/|
+|UNESCO|Organização das Nações Unidas para Educação, Ciência e Cultura|https://www.unesco.org/en|
+|AEIA|Agência Internacional de Energia Atômica|https://www.iaea.org/|
+|EU|European Union Climate Action|https://ec.europa.eu/clima/index_pt|
 
 ## Governo Brasileiro
 
