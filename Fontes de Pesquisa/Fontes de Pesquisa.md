@@ -15,6 +15,7 @@
 |ONU-Habitat|Programa das Nações Unidas para Assentamentos Humanos|Link|
 |UNESCO|Organização das Nações Unidas para Educação, Ciência e Cultura|Link|
 |AEIA|Agência Internacional de Energia Atômica|Link|
+|EU|European Union Climate Action|Link|
 
 ## Governo Brasileiro
 
@@ -25,13 +26,45 @@
 |Módulo Fiscal (Embrapa)|Função|https://www.embrapa.br/codigo-florestal/area-de-reserva-legal-arl/modulo-fiscal|
 |INCRA|Função|https://www.gov.br/incra/pt-br|
 
-## ONGS
+## ONGS e Institutos
 
 |TIPO|NOME|RESEARCH|
 |-|-|-|
 |Internacional|International Union for Conservation of Nature (IUCN)|https://www.iucn.org/about|
+|Internacional|Adelphi|link|
+|Internacional|Climate Pledge|Link|
+|Internacional|Friends of Ocean Action|Link|
+|Internacional|Urban Ocean Lab|Link|
 |Nacional|Climainfo|https://climainfo.org.br/|
 |Nacional|Imaflora|https://www.imaflora.org/|
 |Nacional|Instituto de Pesquisa Ambiental da Amazônia|https://ipam.org.br/sobre-o-ipam/|
 |Nacional|OECO - Jornalismo Ambiental|https://oeco.org.br/quem-somos/|
 |Nacional|Infoamazonia|https://infoamazonia.org/|
+|Nacional|Centro Brasil no Clima|Link|
+|Nacional|CIPÓ|Link|
+|Nacional|Instituto Igarapé|Link|
+|Nacional|Socioambiental|Link|
+|Nacional|SOS Mata Atlântica|Link|
+|Nacional|Instituto Escolhas|Link|
+|Nacional|Política por inteiro|Link|
+
+## Universidades e Centros de Pesquisa Acadêmica
+
+|NOME|OBJETIVO|RESEARCH|
+|-|-|-|
+|Yale Climate Comm|Objetivo|Link|
+
+## Movimentos Sociais
+
+|NOME|OBJETIVO|RESEARCH|
+|-|-|-|
+|We don't have time|Objetivo|Link|
+|Riseup Movement|Objetivo|Link|
+|Climate Hero|Objetivo|Link|
+|Teach the Future|Objetivo|Link|
+
+## Empresas
+|NOME|RAMO|RESEARCH|
+|-|-|-|
+|Solar Power Europe|Energia Solar|Link|
+
