@@ -35,22 +35,22 @@ https://unicrio.org.br/img/2010/04/organograma.png
 |-|-|-|
 |Internacional|World Economic Forum|https://www.weforum.org/|
 |Internacional|International Union for Conservation of Nature (IUCN)|https://www.iucn.org/about|
-|Internacional|Adelphi|link|
-|Internacional|Climate Pledge|Link|
-|Internacional|Friends of Ocean Action|Link|
-|Internacional|Urban Ocean Lab|Link|
+|Internacional|Adelphi|https://www.adelphi.de/en|
+|Internacional|Climate Pledge|https://www.theclimatepledge.com/|
+|Internacional|Friends of Ocean Action|https://www.weforum.org/friends-of-ocean-action|
+|Internacional|Urban Ocean Lab|https://urbanoceanlab.org/|
 |Nacional|Climainfo|https://climainfo.org.br/|
 |Nacional|Imaflora|https://www.imaflora.org/|
 |Nacional|Instituto de Pesquisa Ambiental da Amazônia|https://ipam.org.br/sobre-o-ipam/|
 |Nacional|OECO - Jornalismo Ambiental|https://oeco.org.br/quem-somos/|
 |Nacional|Infoamazonia|https://infoamazonia.org/|
-|Nacional|Centro Brasil no Clima|Link|
-|Nacional|CIPÓ|Link|
-|Nacional|Instituto Igarapé|Link|
-|Nacional|Socioambiental|Link|
-|Nacional|SOS Mata Atlântica|Link|
-|Nacional|Instituto Escolhas|Link|
-|Nacional|Política por inteiro|Link|
+|Nacional|Centro Brasil no Clima|https://www.centrobrasilnoclima.org/home|
+|Nacional|CIPÓ|https://plataformacipo.org/|
+|Nacional|Instituto Igarapé|https://igarape.org.br/|
+|Nacional|Socioambiental|https://www.socioambiental.org/pt-br|
+|Nacional|SOS Mata Atlântica|https://www.sosma.org.br/|
+|Nacional|Instituto Escolhas|https://www.escolhas.org/|
+|Nacional|Política por inteiro|https://www.politicaporinteiro.org/|
 
 ## Universidades e Centros de Pesquisa Acadêmica
 
