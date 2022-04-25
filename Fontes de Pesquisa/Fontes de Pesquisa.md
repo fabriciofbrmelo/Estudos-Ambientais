@@ -24,3 +24,14 @@
 |Embrapa|Função|https://www.embrapa.br/car/sintese|
 |Módulo Fiscal (Embrapa)|Função|https://www.embrapa.br/codigo-florestal/area-de-reserva-legal-arl/modulo-fiscal|
 |INCRA|Função|https://www.gov.br/incra/pt-br|
+
+## ONGS
+
+|TIPO|NOME|RESEARCH|
+|-|-|-|
+|Internacional|International Union for Conservation of Nature (IUCN)|https://www.iucn.org/about|
+|Nacional|Climainfo|https://climainfo.org.br/|
+|Nacional|Imaflora|https://www.imaflora.org/|
+|Nacional|Instituto de Pesquisa Ambiental da Amazônia|https://ipam.org.br/sobre-o-ipam/|
+|Nacional|OECO - Jornalismo Ambiental|https://oeco.org.br/quem-somos/|
+|Nacional|Infoamazonia|https://infoamazonia.org/|
