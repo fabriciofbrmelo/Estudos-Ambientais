@@ -70,4 +70,3 @@
 |NOME|RAMO|RESEARCH|
 |-|-|-|
 |Solar Power Europe|Energia Solar|Link|
-
