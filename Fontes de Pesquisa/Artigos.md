@@ -19,10 +19,3 @@
 ||Papel das Terras Indígenas na Proteção das Florestas|[Link](https://mapbiomas-br-site.s3.amazonaws.com/downloads/Colecction%206/Fatos_sobre_o_Papel_das_Terras_Ind%C3%ADgenas_18.04.pdf)|
 |Desmatamento e Queimadas|Desmatamento|[Link](https://ipam.org.br/cartilhas-ipam/desmatamento-em-foco/)|
 |Climate Change|Targets: Protected Lands|[Link](https://www.theguardian.com/environment/2021/may/19/governments-achieve-10-year-target-of-protecting-17-percent-land-aoe)|
-
-
-UN Environment Program: https://www.unep.org/pt-br
-Relevant Organizations: https://unfccc.int/topics/science/resources/partners-and-relevant-organizations-0
-Onu e Meio Ambiente: https://brasil.un.org/pt-br/91223-onu-e-o-meio-ambiente#:~:text=A%20lista%20dos%20%C3%B3rg%C3%A3os%20ativos,UNIDO)%2C%20a%20Organiza%C3%A7%C3%A3o%20das%20Na%C3%A7%C3%B5es
-IPCC: https://antigo.mctic.gov.br/mctic/opencms/ciencia/SEPED/clima/ciencia_do_clima/painel_intergovernamental_sobre_mudanca_do_clima.html#:~:text=O%20Painel%20Intergovernamental%20sobre%20Mudan%C3%A7a,a%20mudan%C3%A7a%20do%20clima%2C%20suas
-COPS: https://antigo.mma.gov.br/clima/convencao-das-nacoes-unidas/conferencia-das-partes.html#:~:text=A%20Confer%C3%AAncia%20das%20Partes%20(COP,pa%C3%ADses%20Parte%20em%20confer%C3%AAncias%20mundiais
